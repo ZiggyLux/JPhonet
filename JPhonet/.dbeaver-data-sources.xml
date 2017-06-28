@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="derby-15c57c55560-706978bb0a345bec" provider="generic" driver="derby" name="Derby - JPhonet" save-password="true" show-system-objects="true" read-only="false">
+		<connection server="" database="C:\Users\Marc\AppData\Local\JPhonet\JPhonet" url="jdbc:derby:C:\Users\Marc\AppData\Local\JPhonet\JPhonet" type="dev"/>
+	</data-source>
+</data-sources>
